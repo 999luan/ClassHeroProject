@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f47390b10335640b3d0b4d0b4f36b0, type: 3}
+  m_Name: Guia
+  m_EditorClassIdentifier: 
+  actor: {fileID: 6866533610403000457, guid: b6375cc906cc98c42b2cf7e11cd9d3cc, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Npc
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Bro?
+      whiteEnglish: BRO?
+      blackEnglish: BRO WE ARE IN A ISEKAI
+  - actorName: guia
+    profile: {fileID: 0}
+    sentence:
+      portuguese: 
+      whiteEnglish: 
+      blackEnglish: I SWEAR WE ARE ON A SIMULATIONM
