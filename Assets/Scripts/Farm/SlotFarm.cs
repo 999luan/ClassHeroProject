@@ -76,6 +76,7 @@ public class SlotFarm : MonoBehaviour
     public void OnHit()
     {
         digAmount--;
+        
         if(digAmount <= initialDigAmount / 2)
         {
             spriteRenderer.sprite = hole;

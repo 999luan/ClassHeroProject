@@ -44,7 +44,7 @@ public class Fishing : MonoBehaviour
             
         }else{
             //falhou
-           Debug.Log("Falhgou");
+           Debug.Log("Falhou");
         }
     }
 
